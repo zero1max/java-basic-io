@@ -1,19 +1,22 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args)
-    {
-        //This is print for Helle, World!
+    public static void main(String[] args) {
+        // Bu "Hello, World!" xabarini chiqaradi
         System.out.println("Hello, World!");
-        //This is input for java
+        
+        // Scanner obyektini yaratish
         Scanner scanner = new Scanner(System.in);
-        //Need First number
+        
+        // Birinchi sonni kiritish
         System.out.println("Birinchi son kiriting: ");
         int a = scanner.nextInt();
-        //Need Second number
+        
+        // Ikkinchi sonni kiritish
         System.out.println("Ikkinchi son kiriting: ");
         int b = scanner.nextInt();
-        //print result
-        System.out.println(a+b);
+        
+        // Natijani chiqarish
+        System.out.println("Yig‘indi: " + (a + b));
     }
 }

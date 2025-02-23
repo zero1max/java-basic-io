@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class if_operators {
+public class If_operators {
     public static void main(String[] args) {
 
         // Scanner obyektini yaratish

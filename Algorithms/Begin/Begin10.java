@@ -21,6 +21,8 @@ public class Begin10 {
             System.out.println("Ayirma: "+ayirma);
             System.out.println("Ko'paytma: "+kopaytma);
             System.out.println("Kvadratlar: "+kvadrats);
+        } else {
+            System.out.print("Error!");
         }
     }
 }

@@ -18,5 +18,7 @@ public class Begin17 {
 
         System.out.println("AC: "+AC);
         System.out.println("BC: "+BC);
+
+        sc.close();
     }
 }

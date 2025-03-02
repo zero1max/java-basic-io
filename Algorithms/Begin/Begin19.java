@@ -23,5 +23,7 @@ public class Begin19 {
 
         System.out.println("Perimetri: " + P);
         System.out.println("Yuzasi: " + S);
+
+        scanner.close();
     }
 }

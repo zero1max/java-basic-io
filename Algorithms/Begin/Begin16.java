@@ -13,5 +13,7 @@ public class Begin16 {
 
         double Distance = Math.abs(x2-x1);
         System.out.println("Distance: "+Distance);
+
+        sc.close();
     }
 }

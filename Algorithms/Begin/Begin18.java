@@ -21,5 +21,7 @@ public class Begin18 {
         int result = AC * BC;
 
         System.out.println("AC * BC = " + result);
+
+        scanner.close();
     }
 }

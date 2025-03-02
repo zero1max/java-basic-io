@@ -18,5 +18,7 @@ public class Begin6 {
 
         System.out.println("Hajmi: "+V);
         System.out.println("Yuzasi: "+S);
+
+        sc.close();
     }
 }

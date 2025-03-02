@@ -14,5 +14,7 @@ public class Begin8 {
         double orta = (a+b)/2;
 
         System.out.println("Arifmetik o'rtachasi: "+orta);
+
+        sc.close();
     }
 }

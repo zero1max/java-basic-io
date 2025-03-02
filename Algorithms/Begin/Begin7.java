@@ -15,5 +15,7 @@ public class Begin7 {
 
         System.out.println("Uzunligi: "+L);
         System.out.println("Yuzasi: "+S);
+
+        sc.close();
     }
 }

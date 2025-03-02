@@ -11,5 +11,7 @@ public class Integer1 {
 
         double m = sm/100;
         System.out.println("Metr: "+m);
+
+        sc.close();
     }
 }

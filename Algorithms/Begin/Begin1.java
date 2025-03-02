@@ -10,5 +10,7 @@ public class Begin1 {
 
         float P = 4*a;
         System.out.print("Uning perimetri: "+P);
+
+        scanner.close();
     }
 }

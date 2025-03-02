@@ -11,5 +11,6 @@ public class Begin2 {
         float S = (float)Math.pow(a, 2);
         System.out.print("Yuzasi: "+S);
 
+        scanner.close();
     }
 }

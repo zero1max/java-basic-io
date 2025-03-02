@@ -14,5 +14,7 @@ public class Begin3 {
         float S = a*b;
         System.out.println("Perimetri: "+P);
         System.out.println("Yuzasi: "+S);
+
+        scanner.close();
     }
 }

@@ -12,5 +12,7 @@ public class Begin4 {
         double L = pi * d;
 
         System.out.println("Uzunligi: "+L);
+
+        scanner.close();
     }
 }

@@ -15,5 +15,7 @@ public class Begin14 {
 
         System.out.println("Radiusi: "+R);
         System.out.println("Yuzasi: "+S);
+
+        sc.close();
     }
 }

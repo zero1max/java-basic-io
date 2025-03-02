@@ -24,5 +24,7 @@ public class Begin11 {
         } else {
             System.out.print("Error!");
         }
+
+        sc.close();
     }
 }

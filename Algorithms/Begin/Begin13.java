@@ -23,5 +23,7 @@ public class Begin13 {
         } else {
             System.out.print("Error!");
         }
+
+        sc.close();
     }
 }

@@ -16,5 +16,7 @@ public class Begin12 {
 
         System.out.println("Gipotenuzasi: "+c);
         System.out.println("Perimetri: "+P);
+
+        sc.close();
     }
 }

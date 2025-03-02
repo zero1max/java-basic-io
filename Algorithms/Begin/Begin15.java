@@ -16,5 +16,7 @@ public class Begin15 {
         System.out.println("R: "+R);
         System.out.println("D: "+D);
         System.out.println("L: "+L);
+
+        sc.close();
     }
 }
